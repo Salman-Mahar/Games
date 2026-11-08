@@ -1,3 +1,4 @@
+# Made by Salman
 import random
 print("===============================")
 print("--- Rock Paper Scissors ---")
